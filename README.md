@@ -1,33 +1,20 @@
-# Array Sum Calculator
+# Interactive Countdown Timer
 
 ---------------------------------------------------
-**Array Sum Calculator Program Description:**
+**Interactive Countdown Timer Description:**
 
-This Python script calculates the sum of all elements in an array provided by the user.
-
----------------------------------------------------
-**User Input Prompt:**
-
-The program requests the user to input the size of the array and then prompts for the elements of the array, guiding the user effectively through the input process.
+This Python script implements an interactive countdown timer where users can input a duration in hours, minutes, or seconds. Users can add more time to the countdown, start the timer, and repeat the countdown as desired.
 
 ---------------------------------------------------
-**Array Input:**
+**Functionality:**
 
-The program utilizes the `input()` function to read the size of the array and elements of the array entered by the user.
-
----------------------------------------------------
-**Array Sum Calculation:**
-
-The script computes the sum of all elements in the array using a loop.
-
----------------------------------------------------
-**Result Display:**
-
-After obtaining the array elements and calculating the sum, the program displays the total sum to the user.
+- **Duration Input:** Users input the duration for the countdown and choose the time unit (hours, minutes, or seconds).
+- **Additional Time:** Users can add more time to the countdown after it has started.
+- **Countdown Display:** The script displays the countdown timer in hours, minutes, and seconds format.
+- **Timer Start:** The countdown starts automatically once the duration and unit are set.
+- **New Countdown:** Users have the option to start a new countdown after the current one ends.
 
 ---------------------------------------------------
 **Usage:**
 
-Run the script in a Python environment. Enter the size of the array and its elements when prompted.
-
-The program will compute and display the sum of all elements in the array.
+Run the script in a Python environment. Follow the prompts to input the duration and choose the time unit. You can add more time to the countdown by answering 'yes' when prompted. Once the countdown starts, the timer will display the remaining time until it reaches zero. After the countdown ends, you have the option to start a new countdown by entering 'yes' when prompted.
