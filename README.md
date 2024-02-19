@@ -17,4 +17,12 @@ This Python script implements an interactive countdown timer where users can inp
 ---------------------------------------------------
 **Usage:**
 
-Run the script in a Python environment. Follow the prompts to input the duration and choose the time unit. You can add more time to the countdown by answering 'yes' when prompted. Once the countdown starts, the timer will display the remaining time until it reaches zero. After the countdown ends, you have the option to start a new countdown by entering 'yes' when prompted.
+Run the script in a Python environment.
+
+Follow the prompts to input the duration and choose the time unit.
+
+You can add more time to the countdown by answering 'yes' when prompted.
+
+Once the countdown starts, the timer will display the remaining time until it reaches zero.
+
+After the countdown ends, you have the option to start a new countdown by entering 'yes' when prompted.
